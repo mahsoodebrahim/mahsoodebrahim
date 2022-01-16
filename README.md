@@ -2,7 +2,7 @@
 
 ## I'm a Engineer, Developer, and Life-Long Learner!
 
-- 👀 I’m interested in Web Development and the Crypto space
+- 👀 I’m interested in Web/Mobile Development and the Crypto space
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Build my first blockchain!
 - ⚡ Fun fact: Food is my weakness
